@@ -1,0 +1,28 @@
+# NetBeans build folders
+/build/
+/dist/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE specific
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+*.jar
